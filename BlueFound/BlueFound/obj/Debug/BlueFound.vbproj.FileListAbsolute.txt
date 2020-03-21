@@ -1,0 +1,14 @@
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\Debug\BlueFound.exe.config
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\Debug\BlueFound.exe
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\Debug\BlueFound.pdb
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\Debug\BlueFound.xml
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.vbprojAssemblyReference.cache
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.Resources.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.vbproj.GenerateResource.cache
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.vbproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.exe
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.xml
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.pdb
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.Schermata_di_Login.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.Form2.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\Debug\BlueFound.Main_Page.resources
