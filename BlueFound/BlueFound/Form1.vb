@@ -12,10 +12,18 @@
             Main_Page.Show()
             Me.Hide()
         Else
-            Label4.Text = "Username o Password non corretti!"
-            Label4.BackColor = Color.Red
+            MsgBox("Username o Password non corretti!")
+
+            'Label4.Text = "Username o Password non corretti!"
+            'Label4.BackColor = Color.Red
         End If
 
+
+    End Sub
+
+    Private Sub LinkDiRegistrazione_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles LinkDiRegistrazione.LinkClicked
+        Mail_BlueFound.Show()
+        Me.Hide()
 
     End Sub
 
