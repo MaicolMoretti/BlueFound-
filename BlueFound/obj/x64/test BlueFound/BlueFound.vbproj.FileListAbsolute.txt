@@ -1,0 +1,16 @@
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\x64\test BlueFound\BlueFound.exe.config
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\x64\test BlueFound\BlueFound.exe
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.vbproj.ResolveComReference.cache
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.Schermata_di_Login.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.Form2.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.Mail_BlueFound.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.Main_Page.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.Resources.resources
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.vbproj.GenerateResource.cache
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.vbproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.exe
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.xml
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.pdb
+C:\Users\maico\source\repos\BlueFound\BlueFound\obj\x64\test BlueFound\BlueFound.vbprojAssemblyReference.cache
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\x64\test BlueFound\BlueFound.pdb
+C:\Users\maico\source\repos\BlueFound\BlueFound\bin\x64\test BlueFound\BlueFound.xml
