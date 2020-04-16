@@ -8,3 +8,5 @@ So the original project was changed.
 
 The actual project allow you to write whatever you want inside the application and you can generate a simple 
 Microsoft Word file that contains the same words (or phrases) that you wrote. 
+
+##Changed
