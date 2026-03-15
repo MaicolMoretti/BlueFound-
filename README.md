@@ -2,7 +2,7 @@
 
 This is my first project writed in Visual Basic, it's called Bluefound.
 
-The original idea was to create an App that can communicates with Blietooth.
+The original idea was to create an App that can communicates with Bluetooth.
 Doing this project I discovered that visual basic does not have the libraries to cammunicate with bluetooth.
 So the original project was changed. 
 
